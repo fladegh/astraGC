@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="assets">
+    <file>assets/label_with_logo.png</file>
+    <file>assets/logo.png</file>
+  </qresource>
+</RCC>
